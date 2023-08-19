@@ -1,2 +1,4 @@
 # ZunDuJiaDulanguageTranslator
-一个把人类语言翻译成尊嘟假嘟语言的翻译器，基于base64
+一个把人类语言翻译成尊嘟假嘟语言的翻译器，使用openssl库
+没啥好说的，字符串base之后再生成表。每个字符对应一个索引
+想build必须包含openssl
