@@ -1,0 +1,2 @@
+# ZunDuJiaDulanguageTranslator
+一个把人类语言翻译成尊嘟假嘟语言的翻译器，基于base64
